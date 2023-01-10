@@ -1,0 +1,5 @@
+﻿1. Home Directory
+   1. papers
+   2. projects
+   3. research_notebook: Project-wise research process
+   
